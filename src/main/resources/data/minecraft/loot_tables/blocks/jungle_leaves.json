@@ -10,7 +10,7 @@
           "children": [
             {
               "type": "minecraft:item",
-              "name": "minecraft:jungle_leaves",
+              "name": "foodstuff:banana",
               "conditions": [
                 {
                   "condition": "minecraft:alternative",
@@ -129,21 +129,6 @@
               }
             ]
           }
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "foodstuff:banana"
-        }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:random_chance",
-          "chance": 0.5
         }
       ]
     }
