@@ -23,7 +23,7 @@
             },
             {
               "type": "minecraft:item",
-              "name": "minecraft:wheat_seeds"
+              "name": "foodstuff:strawberry"
             }
           ]
         }
