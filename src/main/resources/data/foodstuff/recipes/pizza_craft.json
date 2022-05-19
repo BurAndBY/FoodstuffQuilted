@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cooked_beef"
+        },
+        {
+            "item": "minecraft:kelp"
+        },
+        {
+            "item": "foodstuff:dough"
+        }
+    ],
+    "result": {
+        "item": "foodstuff:pizza",
+        "count": 1
+    }
+}
