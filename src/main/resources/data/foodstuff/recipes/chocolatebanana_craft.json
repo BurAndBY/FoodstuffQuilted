@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#F"
+    ],
+    "key": {
+        "#": {
+            "item": "foodstuff:chocolate"
+        },
+        "F": {
+            "item": "foodstuff:banana"
+        }
+    },
+    "result": {
+        "item": "foodstuff:chocolatebanana",
+        "count": 1
+    }
+}

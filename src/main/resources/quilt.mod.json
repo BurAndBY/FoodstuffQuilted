@@ -1,0 +1,41 @@
+{
+	"schema_version": 1,
+	"quilt_loader": {
+		"group": "burandby",
+		"id": "foodstuff",
+		"version": "1.0+1.18.2",
+		"metadata": {
+			"name": "Foodstuff",
+			"description": "A short description of your mod.",
+			"contributors": {
+				"Somecateyelink, a.k.a SCaELs": "Dev of original mod",
+				"BurAndBY": "Port to QuiltMC"
+			},
+			"contact": {
+				"homepage": "https://burandby.me/",
+				"issues": "l8",
+				"sources": "l8"
+			},
+			"icon": "assets/foodstuff/icon.png"
+		},
+		"intermediate_mappings": "net.fabricmc:intermediary",
+		"entrypoints": {
+			"init": "com.example.example_mod.ModInit"
+		},
+		"depends": [
+			{
+				"id": "quilt_loader",
+				"versions": ">=0.16.0-"
+			},
+			{
+				"id": "quilted_fabric_api",
+				"versions": ">=1.0.0-"
+			},
+			{
+				"id": "minecraft",
+				"versions": ">=1.18.2"
+			}
+		]
+	},
+	"mixin": "example_mod.mixins.json"
+}

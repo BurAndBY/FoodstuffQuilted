@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "foodstuff:block/banana_model" }
+  }
+}
