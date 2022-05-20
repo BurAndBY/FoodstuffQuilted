@@ -6,7 +6,7 @@
 		"version": "1.0+1.18.2",
 		"metadata": {
 			"name": "Foodstuff",
-			"description": "A short description of your mod.",
+			"description": "Foodstuff adds a lot of food to the game to enhance your Minecraft experience. Foodstuff Quilted is a reimagination for foodstuff based on Quilt modloader for 1.18.2.",
 			"contributors": {
 				"Somecateyelink, a.k.a SCaELs": "Dev of original mod",
 				"BurAndBY": "Port to QuiltMC"
